@@ -41,3 +41,6 @@ public class ServerThread extends Thread {
 	}
 
 }
+买入、卖出，cancel
+价格（买入/卖出），订单号，股票名字，数量， symbol
+用户住址，下的单子，单子状态，帐号，余额
